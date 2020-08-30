@@ -9,6 +9,7 @@
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "date-fns": "^2.15.0",
     "express": "^4.17.1",
     "pg": "^8.3.2",
