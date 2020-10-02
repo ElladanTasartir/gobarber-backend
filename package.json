@@ -13,6 +13,7 @@
     "test:ci": "yarn test --coverage"
   },
   "dependencies": {
+    "@types/nodemailer": "^6.4.0",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "date-fns": "^2.15.0",
